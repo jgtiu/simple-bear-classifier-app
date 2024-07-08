@@ -1,2 +1,1 @@
-# test-project-site
-updated config
+# Bear Classifier
